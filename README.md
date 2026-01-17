@@ -1,2 +1,2 @@
-qwer
-tgbgytgb
+<<<<<<< HEAD
+qwerty
