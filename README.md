@@ -1,1 +1,1 @@
-dfghjkl123456781 praktika
+qwer
